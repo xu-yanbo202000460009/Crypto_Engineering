@@ -9,7 +9,6 @@
 *  *Lab3_Stream_Cipher* &ensp;&emsp;A51、RC4流密码算法Verilog实现
 *  *Lab4_Multiplication* &emsp;&emsp;Montgomery、Barrett reduction算法实现
 *  *Lab5_RSA-CRT* &emsp;&emsp;&emsp;&emsp;RSA-CRT算法实现
-
 # 密码工程课程作业
 ##  许延博  202000460009
 ### 简介
@@ -26,42 +25,49 @@
 
 #### Lab1 AES
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/PULJRV1rskCB6Yo"/></div>
+![aes.png](https://s2.loli.net/2023/04/17/4JwH5hcRKVkizNQ.png)
 <p align="center">AES实现及查表优化结果</p>
+
+
+
+![deccmp.png](https://s2.loli.net/2023/04/17/wDI78s5RHkFlnvb.png)
+<p align="center">效率对比</p>
+
+
 
 #### Lab2 DES
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/XijK5GZQmudTzto"/></div>
+![vivadores.png](https://s2.loli.net/2023/04/17/dThzarR8HDWfGmc.png)
 <p align="center">DES Verilog实现波形图</p>
 
 
 #### Lab3 Stream Cipher
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/HjboSL7PI1rEXxh"/></div>
+![a51vivado.png](https://s2.loli.net/2023/04/17/pWEzQgdHumvrZTt.png)
 <p align="center">A51 Verilog实现波形图</p>
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/RpaO2TCM4eX5Iwn"/></div>
+![rc4vivado.png](https://s2.loli.net/2023/04/17/AIh3KfauZdY8qcr.png)
 <p align="center">RC4 Verilog实现波形图</p>
 
 
 #### Lab4 Multiplication
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/HjboSL7PI1rEXxh"/></div>
+![coutmm.png](https://s2.loli.net/2023/04/17/LqpK2ZlI1TWSueF.png)
 <p align="center">Montgomery算法C++实现</p>
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/RpaO2TCM4eX5Iwn"/></div>
+![pyres.png](https://s2.loli.net/2023/04/17/hygbZRoGen5IaCf.png)
 <p align="center">Montgomery算法Python实现</p>
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/K65J4L3nXOEkZmy"/></div>
-<p align="center">Montgomery算法C++实现</p>
+![coutba.png](https://s2.loli.net/2023/04/17/yJWULeRiwzOb6rg.png)
+<p align="center">Barrett reduction算法C++实现</p>
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/NeYlGgc71Jzukfj"/></div>
-<p align="center">Montgomery算法Python实现</p>
+![pyresBA.png](https://s2.loli.net/2023/04/17/u75qkQE3J2peaMr.png)
+<p align="center">Barrett reduction算法Python实现</p>
 
 #### Lab5 RSA-CRT
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/qlAytbhzr9SWi3G"/></div>
+![coutrsa.png](https://s2.loli.net/2023/04/17/uU6Tv7KSdL9Ht8B.png)
 <p align="center">RSA-CRT算法C++实现</p>
 
-<div align=center><img width=500" height="140" src="https://sm.ms/image/UDPCTlxhiXsNbSv"/></div>
+![pyresrsa.png](https://s2.loli.net/2023/04/17/bAYD84EvWmBP5UV.png)
 <p align="center">RSA-CRT算法Python实现</p>
